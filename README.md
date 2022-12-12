@@ -1,6 +1,5 @@
-# Link-Prediction-In-Bipartite-networks
-Link Prediction
-Introduction
+#Link Prediction
+Introduction /n \n
 In this project, four Link Prediction algorithms, namely Common neighbors (CN), Jaccard (JC), Preferential attachments (PA), and Adamic Adar (AA), have been implemented to predict new links in bipartite networks. My article entitled "Computational Prediction of Probable Single Nucleotide Polymorphism-Cancer Relationships" explains more detailed explanations about these algorithms and their application in.
 Dataset
 The extension of the dataset file should be .xlsx and contain two columns. The first column is the first part of the network and the second column is the second part of the network.
